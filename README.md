@@ -332,6 +332,6 @@ The final predictor uses the saved model `final_word2vec_bigru.keras` and prepro
 
 <a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20BACK%20TO%20TOP-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Back to top sticker"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=130&section=footer" width="100%" alt="Animated footer wave"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Built+with+Python%2C+curiosity%2C+and+sarcasm.;Thanks+for+visiting+Sarcasm+Lens+%E2%9C%A8;Leave+a+star+if+you+liked+the+project+%E2%AD%90" alt="Animated footer"/>
 
 </div>
