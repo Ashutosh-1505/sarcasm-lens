@@ -328,7 +328,6 @@ The final predictor uses the saved model `final_word2vec_bigru.keras` and prepro
 
 ### ✦ Every review has a story. Let's teach machines to read between the lines.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Built+with+Python%2C+curiosity%2C+and+a+little+sarcasm.;Thanks+for+visiting+Sarcasm Lens+%E2%9C%A8;If+you+liked+the+project%2C+leave+a+star+%E2%AD%90" alt="Animated footer"/>
 
 <a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20BACK%20TO%20TOP-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Back to top sticker"/></a>
 
