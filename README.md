@@ -318,12 +318,13 @@ The final predictor uses the saved model `final_word2vec_bigru.keras` and prepro
 
 <div align="center">
 
-| Contributor | Role | GitHub |
-|:---|:---|:---|
-| **Shibani Mishra** | Contributor | [![GitHub](https://img.shields.io/badge/GitHub-shibani-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/Shibani-4331) |
-| **Ashutosh Mohanty** | Contributor | [![GitHub](https://img.shields.io/badge/GitHub-ashutosh-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/Ashutosh-1505) |
-| **Deepakshi Nayak** | Contributor | [![GitHub](https://img.shields.io/badge/GitHub-deepakshi-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/DeepakshiiiGit) |
-| **Smruti Ranjan Nayak** | Contributor | [![GitHub](https://img.shields.io/badge/GitHub-smruti-white?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/Smruti-1163) |
+| Team Members | GitHub |
+|:---|:---:|
+| **Shibani Mishra** | [![GitHub](https://img.shields.io/badge/GitHub-SHIBANI-white?style=for-the-badge&logo=github&logoColor=181717&labelColor=555555)](https://github.com/Shibani-4331) |
+| **Ashutosh Mohanty** | [![GitHub](https://img.shields.io/badge/GitHub-ASHUTOSH-white?style=for-the-badge&logo=github&logoColor=181717&labelColor=555555)](https://github.com/Ashutosh-1505) |
+| **Deepakshi Nayak** | [![GitHub](https://img.shields.io/badge/GitHub-DEEPAKSHI-white?style=for-the-badge&logo=github&logoColor=181717&labelColor=555555)](https://github.com/DeepakshiiiGit) |
+| **Smruti Ranjan Nayak** | [![GitHub](https://img.shields.io/badge/GitHub-SMRUTI-white?style=for-the-badge&logo=github&logoColor=181717&labelColor=555555)](https://github.com/Smruti-1163) |
+
 </div>
 
 ---
