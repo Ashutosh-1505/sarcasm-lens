@@ -321,8 +321,9 @@ The final predictor uses the saved model `final_word2vec_bigru.keras` and prepro
 | Contributor | Role | GitHub |
 |:---|:---|:---|
 | **Shibani Mishra** | Contributor | [GitHub](https://github.com/Shibani-4331) |
+| **Ashutosh Mohanty** | Contributor | [GitHub](https://github.com/Ashutosh-1505) |
 | **Deepakshi Nayak** | Contributor | [GitHub](https://github.com/DeepakshiiiGit) |
-| **Smruti Ranjan Nayak** | Contributor | [Add profile](https://github.com/) |
+| **Smruti Ranjan Nayak** | Contributor | [Add profile](https://github.com/Smruti-1163) |
 
 </div>
 
